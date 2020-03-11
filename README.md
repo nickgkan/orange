@@ -1,4 +1,4 @@
-# orange
+# ORANGE
 (under development)
 
 This repository contains the code release for the paper: 
