@@ -1,7 +1,6 @@
 # ORANGE
 
-This repository contains the code for the paper: 
-''Orientation Attentive Robot Grasp Synthesis'', 
+Code for our paper ''Orientation Attentive Robot Grasp Synthesis'', 
 currently under review for IROS 2020.
 
  **Abstract:** 
