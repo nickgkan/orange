@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+opencv-python
+colorlog
+matplotlib
+Pillow
+imageio
+skimage
+tqdm
