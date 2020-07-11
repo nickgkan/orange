@@ -108,16 +108,11 @@ glove.42B.300d.txt
 annos/
 datasets/
 config.yaml
-faster_rcnn/*
 figures/*
 json_annos/*
-json_annos_old/*
-matlab_annos/*
 models/*
-VG/*
-VRD/*
-UnRel/*
 results/*
+cornell/*
 *.bin
 *.h5
 *.json
@@ -130,7 +125,3 @@ results/*
 *.mat
 *.npy
 .vscode
-train.sh
-epoch_08_iou_0.92
-tmp.py
-metadata.csv
