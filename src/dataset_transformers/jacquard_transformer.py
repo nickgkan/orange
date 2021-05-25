@@ -23,9 +23,8 @@ class JacquardTransformer:
 
     def transform(self):
         """Run transform pipeline."""
-        if not os.path.exists(self._anno_json):
-            with open(self._anno_json, 'w') as fid:
-                json.dump(self.handle_annotations(), fid)
+        with open(self._anno_json, 'w') as fid:
+            json.dump(self.handle_annotations(), fid)
         self.create_images()
 
     def handle_annotations(self):
